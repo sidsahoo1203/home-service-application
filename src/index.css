@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-richblack-900 {
+    background-color: #0f0f0f;
+  }
+  
+  .bg-richblack-800 {
+    background-color: #1b1b1b;
+  }
+  
+  .text-richblack-100 {
+    color: #e0e0e0;
+  }
+  
+  .text-richblack-200 {
+    color: #c0c0c0;
+  }
+  
+  .text-richblack-300 {
+    color: #a0a0a0;
+  }
+  
+  .text-richblack-400 {
+    color: #808080;
+  }
+  
+  .border-richblack-700 {
+    border-color: #2a2a2a;
+  }
+  
+  .text-gradient {
+    background: linear-gradient(90deg, #ff7f7f, #ffbf80);
+    background-clip: text;
+    color: transparent;
+  }
+  
