@@ -7,7 +7,7 @@ const ProductTemp = (name,image,rating,item1,price1,rating1,item2,price2,rating2
             <div className="text-white text-xl">
                 <h1>name</h1>
                 <h2>rating</h2>
-                <img src={image} />
+                {/* <img src={image} /> */}
             </div>
             <div>
                 <div>

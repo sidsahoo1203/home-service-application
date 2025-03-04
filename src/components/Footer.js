@@ -61,8 +61,8 @@ const Footer = () => {
               </button>
             </div>
             <div>
-              <img src={d1} className='w-[100px] h-[auto] mt-8 rounded-sm hover:scale-105 cursor-pointer' />
-              <img src={d2} className='w-[100px] h-[auto] rounded-sm hover:scale-105 cursor-pointer mt-3' />
+              {/* <img src={d1} className='w-[100px] h-[auto] mt-8 rounded-sm hover:scale-105 cursor-pointer' />
+              <img src={d2} className='w-[100px] h-[auto] rounded-sm hover:scale-105 cursor-pointer mt-3' /> */}
             </div>
           </div>
 
